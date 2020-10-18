@@ -1,1 +1,7 @@
-{"title":"Java 编码规范"}
+{
+  "title":"Java 编码规范",
+  "language": "zh-hans",
+	"plugins" :[
+		"theme-vmlite@git+https://github.com/vmlite/gitbook-plugin-theme-vmlite.git"
+	]
+}
